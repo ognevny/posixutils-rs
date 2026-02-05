@@ -11,7 +11,7 @@ libc.workspace = true
 pest = "2.7"
 pest_derive = "2.7"
 lazy_static = "1.4"
-lexical = { version = "6.1", features = ["format"] }
+lexical = { version = "7.0", features = ["format"] }
 rand = {version = "0.8", default-features = false, features = ["small_rng"] }
 
 [[bin]]
